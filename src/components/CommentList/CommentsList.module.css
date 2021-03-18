@@ -1,0 +1,21 @@
+.list {
+  margin: 20px;
+  width: 750px;
+  height: 500px;
+  list-style: none;
+}
+
+.comment {
+  margin-bottom: 15px;
+  padding: 5px;
+  text-align: left;
+}
+
+.comment:last-child {
+  margin-bottom: 0;
+}
+
+.comment:nth-child(2n) {
+  background-color: pink;
+  border-radius: 4px;
+}

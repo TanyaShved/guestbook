@@ -1,0 +1,21 @@
+.appBar {
+  padding-left: 10px;
+  padding-right: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.title {
+  margin-right: 20px;
+}
+
+.container {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.btn {
+  margin-top: 20px;
+}
